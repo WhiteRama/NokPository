@@ -1,2 +1,5 @@
-printf("Hello")
-printf("NONo")
+print("Hello")
+print("NONo")
+
+print("Hello")
+print("GoodBye")
